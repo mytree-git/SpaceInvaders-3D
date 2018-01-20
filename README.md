@@ -1,5 +1,5 @@
 # SpaceInvaders-3D
-A Unity 3D game protototype of the 2D arcade game - Space Invaders. 
+A Unity 3D game prototype of the 2D arcade game - Space Invaders. 
 In this game the the animated 'hero' character moves across the screen. As the game starts, the 3D aliens start scrolling in the downwards direction and shooting 'enemy bullets' in the downward direction as well.
 The player moves left or right depending on the key the user presses and dodges the bullets from the aliens. 
 To fire a weapon (fireball), player shoots with his gun in the upward direction, and the alien that collides gets destroyed.
